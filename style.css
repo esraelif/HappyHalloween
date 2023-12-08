@@ -1,0 +1,10 @@
+@import "compass"
+
+html {height:100%;
+width:100%;
+overflow:hidden;
+scroll:none;
+}
+body{
+    background-color: $2f5363;
+}
